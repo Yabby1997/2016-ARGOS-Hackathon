@@ -1,0 +1,14 @@
+﻿  소스.c
+c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(498): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(498): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(498): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(498): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(586): warning C4778: 'printf' : 서식 문자열 '%                                            \n'이(가) 종결되지 않았습니다.
+c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(588): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 ' '이(가) 있습니다.
+c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(608): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '+'이(가) 있습니다.
+c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(108): warning C4715: 'intro': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(579): warning C4716: 'shop': 값을 반환해야 합니다.
+c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(620): warning C4716: 'slime': 값을 반환해야 합니다.
+c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(638): warning C4716: 'sword': 값을 반환해야 합니다.
+c:\users\mealh\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\소스.c(550): warning C4715: 'inn': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ConsoleApplication3.vcxproj -> C:\Users\mealh\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
