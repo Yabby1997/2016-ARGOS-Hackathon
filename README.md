@@ -1,5 +1,5 @@
 # 2016-ARGOS-Hackathon
-## Awake, my Hero
+## 🕹 Awake, my Hero
 
 ### Description
 Windows CMD Text based RPG
